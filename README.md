@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project called "La maison jungle", was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project called "La Maison Jungle", was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+! [La Maison Jungle] (la-maison-jungle.gif)
 ## Available Scripts
 
 In the project directory, you can run:
